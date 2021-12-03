@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mian-ali/mian-ali** is a ✨ _special_ ✨ repository because its Ali Ahmad `README.md` this file appears on your GitHub profile.
+**mian-ali** is a ✨ _special_ ✨ repository because its Ali Ahmad `README.md` this file appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
