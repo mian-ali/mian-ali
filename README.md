@@ -1,6 +1,18 @@
 ### Hi there 👋
 
+- Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Technologies.
+- [My Portfolio Website](https://www.machadopedro.com)
 
+[![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
+
+<!--
+**machadop1407/machadop1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
+
+
+<!-- 
 **mian-ali** is a ✨ _special_ ✨ repository because its Ali Ahmad `README.md` this file appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ....
 - ⚡ Fun fact: ....
 
+ -->
