@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Technologies.
-- [My Portfolio Website](https://www.machadopedro.com)
+- Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Cloud Technologies.
 
 [![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
 
@@ -16,6 +15,7 @@
 **mian-ali** is a ✨ _special_ ✨ repository because its Ali Ahmad `README.md` this file appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<!-- - [My Portfolio Website](https://www.machadopedro.com) -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
