@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
 <h3 align="center">Web Developer with 3+ years of experience in designing and developing user interfaces, testing, debugging, and training staff within eCommerce technologies. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mian-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mian-ali" /> </p>
@@ -34,14 +34,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&locale=en" alt="mian-ali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-ali&" alt="mian-ali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-ali&" alt="mian-ali" /></p> -->
 
 
-<!-- ### Hi there 👋
+### Hi there 👋
 
 - Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Cloud Technologies.
 
-[![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats) -->
+[![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
 
 <!--
 **machadop1407/machadop1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
