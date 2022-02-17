@@ -43,6 +43,10 @@
 
 [![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
 
+
+[![Ali Ahmad | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/aliahmad14/)
+
+
 <!--
 **machadop1407/machadop1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
