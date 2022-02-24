@@ -39,12 +39,22 @@
 
 ### Hi there 👋
 
-- Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Cloud Technologies.
+#### Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Cloud Technologies.
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning everything 😂
+- 👯 I’m looking to collaborate with other content creators
+- 🎯 2022 Goals: Contribute more to open source projects
+- ⚡ Fun fact: I love to playing Cricket🏏
 
 [![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
 
+## Social Links
+<!-- [![Ali Ahmad | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/aliahmad14/) -->
+[![ Ali Ahmad| linkedin](https://user-images.githubusercontent.com/69896600/155517071-2cce17ca-8d54-40f2-afc7-c065a9c0ce27.png)](https://www.linkedin.com/in/aliahmad14/)
+[![ Ali Ahmad |twitter](https://user-images.githubusercontent.com/69896600/155517467-1f16b333-4d6d-49ea-acd9-dcb3be9c5010.png)](https://twitter.com/itxAliahmad)
+[![ Ali Ahmad |facebook](https://user-images.githubusercontent.com/69896600/155522283-3b2ff8b2-051f-47ad-86d5-8fd9e2d238e8.png)](https://www.facebook.com/profile.php?id=100012838752669)
 
-[![Ali Ahmad | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/aliahmad14/)
 
 
 <!--
