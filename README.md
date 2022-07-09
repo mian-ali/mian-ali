@@ -41,6 +41,8 @@
 
 #### Hi, my name is Ali Ahmad and I am a Software Engineer at the Vvork Cloud Technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mian-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mian-ali" /> </p>
+
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
