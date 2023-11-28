@@ -46,7 +46,7 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: Contribute more to open-source projects
+- 🎯 2023 Goals: Contribute more to open-source projects
 - ⚡ Fun fact: I love to playing Cricket🏏
 
 [![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
