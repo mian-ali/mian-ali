@@ -36,10 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-ali&" alt="mian-ali" /></p> -->
 
-
-### Hi there 👋
-
-#### Hi, I am Ali Ahmad, a Senior Software Engineer at Vvork Cloud Technologies.
+#### Hi 👋, I am Ali Ahmad, a Senior Software Engineer at Vvork Cloud Technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mian-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mian-ali" /> </p>
 
