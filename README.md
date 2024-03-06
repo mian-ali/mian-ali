@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ProShop-Ecommerce-App](https://github.com/mian-ali/ProShop-Ecommerce-App)
 
-- 🌱 I’m currently learning **Web Development , Mobile App Development ,Blockchain Developement**
+- 🌱 I’m currently learning **Web Development, Mobile App Development,Blockchain development**
 
 - 👯 I’m looking to collaborate on [ProShop-Ecommerce-App](https://github.com/mian-ali/ProShop-Ecommerce-App)
 
@@ -44,7 +44,7 @@
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
 - 🎯 2024 Goals: Contribute more to open-source projects
-- ⚡ Fun fact: I love to playing Cricket🏏
+- ⚡ Fun fact: I love to play Cricket🏏
 
 [![Ali Ahmad Github States](https://github-readme-stats.vercel.app/api?username=mian-ali&show_icons=true&theme=dracula)](https://github.com/mian-ali/github-readme-stats)
 
@@ -64,7 +64,7 @@
 
 
 <!-- 
-**mian-ali** is a ✨ _special_ ✨ repository because its Ali Ahmad `README.md` this file appears on your GitHub profile.
+**mian-ali** is a ✨ _special_ ✨ repository because it's Ali Ahmad `README.md` this file appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <!-- - [My Portfolio Website](https://www.machadopedro.com) -->
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ....
+- 📫 How to reach me:...
 - 😄 Pronouns: ....
-- ⚡ Fun fact: ....
+- ⚡ Fun fact:...
  -->
