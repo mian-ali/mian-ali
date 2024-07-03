@@ -36,9 +36,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-ali&" alt="mian-ali" /></p> -->
 
-#### Hi 👋, I am Ali Ahmad, a Senior Software Engineer.
+<!--- #### Hi 👋, I am Ali Ahmad, a Senior Software Engineer. --->
 
+# Welcome to my GitHub profile 🙌
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mian-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mian-ali" /> </p>
+
+### About Me
+
+> 👋 Hey there! I'm Ali Ahmad, a Senior Software Engineer with a creative spark and a penchant for turning code into captivating digital experiences. With years of expertise in software development, I specialize in crafting robust, scalable solutions that drive 
+ innovation. My passion lies in continuous learning and pushing the boundaries of technology. Join me on my journey as we code the future together!
+
+> 💻 Code artisan by day, tech enthusiast by night. I love diving into the intricacies of software engineering, ensuring every line of code contributes to a greater vision. My mission is to develop applications that not only meet but exceed user expectations.
+
+> 🚀 Driven by a passion for technology and a desire to make a positive impact, I'm always on the lookout for new challenges and opportunities to grow. Let's connect, collaborate, and create something extraordinary!
+
+
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
